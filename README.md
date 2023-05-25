@@ -77,7 +77,6 @@ Pre-requisites for the is repo are Access to a Kubernetes/K8 cluster. Have no fe
 </details>
 
 #
-# Helm For Beginners
 
 ## What is Helm?
 
