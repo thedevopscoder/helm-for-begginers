@@ -1,0 +1,20 @@
+apiVersion: v2
+appVersion: "1.16.0"
+version: 0.1.0
+name: myhelmdemo
+description: A Helm chart for Kubernetes
+type: application
+dependencies:
+  - name: maria
+    condition: mariadb.enabled
+    repository: https://charts.bitnami.com/bitnami
+    version: 9.x.x
+keywords:
+  - application
+  - blog
+  - wordpress
+maintainers:
+  - name: DevOpsCoder
+    email: helm@devopscoder.io
+home: https://ghost.devopscoder.io
+icon: https://iconexample.com/helm/icon/example.png
