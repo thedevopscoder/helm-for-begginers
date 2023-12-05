@@ -1,4 +1,4 @@
-# Welcome to Helm for beginners 👋
+# 👋 Welcome to Helm for beginners 
 ![Alt Text](.img/helm%20flow.drawio.png)
 <!-- <img src=".img/helm%20flow.drawio.png" alt="Alt Text" width="600" align="center" /> -->
 
@@ -8,7 +8,7 @@ This repository provides a walkthrough on Helm, covering topics such as Helm com
 
 ## Pre-requisites 👍
 
-Pre-requisites for the is repo are Access to a Kubernetes/K8 cluster. Have no fear if you do not have access to a k8 cluster. You can create one easily by installing one of the following Kubernetes distributions tools such as minikube, k3d or kind. Details on Kubernetes distributions installers can be found below.
+Pre-requisites for the repo are access to a Kubernetes/K8 cluster. Have no fear if you do not have access to a k8 cluster. You can create one easily by installing one of the following Kubernetes distribution tools such as minikube, k3d, or kind. Details on Kubernetes distribution installers can be found below.
 
 <br>
 
